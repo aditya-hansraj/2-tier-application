@@ -5,3 +5,5 @@
 /keys
 /dist
 .DS_Store
+
+/server/.env
